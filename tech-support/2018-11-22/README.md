@@ -42,3 +42,8 @@ the plans indicate that the `right` side is shown. In the pictures below I have 
 1. Are the parts incorrectly labelled?
 1. Are the drawings incorrectly labelled?
 1. How do I get a replacement `WIX-T11-06 L`?
+
+## Resolution
+
+* Learn to read the plans.
+* Replacement part sent.
